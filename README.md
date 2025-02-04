@@ -17,6 +17,7 @@ React Frontend:
 Responsive and dynamic user interface.
 State management using React Hooks.
 Integration with backend APIs.
+
 Full Stack:
 
 Seamless integration between the backend and frontend.
